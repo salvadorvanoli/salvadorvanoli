@@ -1,18 +1,18 @@
 <h1 align="center"> Buenas, soy Salvador, ¡bienvenido a mi perfil! 👋 </h1>
 <h3 align="center"> Desarrollador de software buscando pasantía </h3>
 
-- En el último año de carrera 👨‍🎓
+### En el último año de carrera 👨‍🎓
 
-- Buscando un lugar en la industria 💻
+### Buscando un lugar en la industria 💻
 
-- Con conocimientos avanzados de inglés 💬
+### Con conocimientos avanzados de inglés 💬
 
-- En 2023 comencé mi viaje en esta industria y conseguí:
+### 🔹 En 2023 comencé mi viaje en esta industria y conseguí:
   - 1️⃣ Terminar mi primer año de carrera 
   - ⭐️ Completar el curso de jóvenes a programar 
   - 🌐 Conseguir un título de inglés de nivel B2
  
-- Durante 2024 profundicé y perfeccioné mis habilidades:
+### 🔹 Durante 2024 profundicé y perfeccioné mis habilidades:
   - 2️⃣ Terminé el segundo año de carrera 
   - 🌞 Realicé un curso de verano 
   - 🥇 Realicé el segundo año de jóvenes a programar 
@@ -20,13 +20,13 @@
   - 🏆 Terminé múltiples cursos en la plataforma coursera 
   - 🎉 Tuve mi primer experiencia como freelancer (kanthus.com) 
 
-- Este 2025 me propongo:
+### 🔹 Este 2025 me propongo:
   - 3️⃣ Terminar mi carrera 
   - 💼 Tener mi primer experiencia laboral 
   - 📜 Completar cursos adicionales
   - 🛠 Comenzar proyectos significativos
  
-- Hasta ahora, este año he:
+### 🔹 Hasta ahora, este año he:
   - [X] Realizado un curso de ciberseguridad de Google.
   - [X] Realizado un curso de ciberseguridad de IBM.
   - [X] Completado JaP Verano Nivel 2.
@@ -36,7 +36,7 @@
   - [ ] Participado activamente en LinkedIn.
   - [ ] Comenzado un curso de python.
 
-- Las tecnologías y lenguajes que manejo al momento:
+### 🔹 Las tecnologías y lenguajes que manejo al momento:
   <p>
     <img align="center" src="https://cdn-icons-png.flaticon.com/512/5968/5968242.png" height="35" width="35"/>
     <img align="center" src="https://img.icons8.com/?size=512&id=108784&format=png" height="40" width="40"/>
@@ -60,3 +60,13 @@
   <a href="https://linkedin.com/in/salvadorvanolitec" target="blank">
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" height="30" width="30" alt="perfil-linkedin"/>
   </a>
+
+### 🔹 Algunos datos interesantes:
+
+<div align="center">
+  
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=salvadorvanoli&show_icons=true&theme=dark)
+  ![GitHub Streak](https://streak-stats.demolab.com?user=salvadorvanoli&theme=dark)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=salvadorvanoli&layout=compact&theme=dark)  
+
+</div>
