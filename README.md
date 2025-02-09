@@ -30,9 +30,9 @@
   - [X] Realizado un curso de ciberseguridad de Google.
   - [X] Realizado un curso de ciberseguridad de IBM.
   - [X] Completado JaP Verano Nivel 2.
-  - [x] Actualizado mi LinkedIn.
+  - [x] Actualizado mi perfil de LinkedIn.
   - [x] Actualizado mi CV.
-  - [x] Actualizado mi GitHub.
+  - [x] Actualizado mi perfil de GitHub.
   - [ ] Participado activamente en LinkedIn.
   - [ ] Comenzado un curso de python.
 
