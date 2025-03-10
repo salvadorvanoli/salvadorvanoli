@@ -66,7 +66,6 @@
 <div align="center">
   
   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=salvadorvanoli&show_icons=true&theme=dark)
-  ![GitHub Streak](https://streak-stats.demolab.com?user=salvadorvanoli&theme=dark)
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=salvadorvanoli&layout=compact&theme=dark)  
 
 </div>
