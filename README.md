@@ -33,8 +33,8 @@
   - [x] Actualizado mi perfil de LinkedIn.
   - [x] Actualizado mi CV.
   - [x] Actualizado mi perfil de GitHub.
+  - [x] Comenzado un proyecto con Java y Angular.
   - [ ] Participado activamente en LinkedIn.
-  - [ ] Comenzado un curso de python.
 
 ### 🔹 Las tecnologías y lenguajes que manejo al momento:
   <p>
@@ -54,6 +54,7 @@
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/HeidiSQL_logo_image.png/800px-HeidiSQL_logo_image.png" height="50" width="50"/>
     <img align="center" src="https://img.icons8.com/color/512/git.png" height="50" width="50"/>
     <img align="center" src="https://cdn.iconscout.com/icon/free/png-256/free-aws-1869025-1583149.png?f=webp" height="40" width="40"/>
+    <img align="center" src="https://cdn.iconscout.com/icon/free/png-256/free-angular-logo-icon-download-in-svg-png-gif-file-formats--brand-development-tools-pack-logos-icons-226070.png" height="40" width="40"/>
   </p>
 
 - Para tener actualizaciones de mis proyectos puedes seguirme en 
