@@ -1,9 +1,9 @@
 <h1 align="center"> Buenas, soy Salvador, ¡bienvenido a mi perfil! 👋 </h1>
-<h3 align="center"> Desarrollador de software buscando pasantía </h3>
+<h3 align="center"> Desarrollador de software en UKG </h3>
 
 ### En el último año de carrera 👨‍🎓
 
-### Buscando un lugar en la industria 💻
+### Asentando mi lugar en la industria 💻
 
 ### Con conocimientos avanzados de inglés 💬
 
@@ -30,10 +30,11 @@
   - [X] Realizado un curso de ciberseguridad de Google.
   - [X] Realizado un curso de ciberseguridad de IBM.
   - [X] Completado JaP Verano Nivel 2.
-  - [x] Actualizado mi perfil de LinkedIn.
-  - [x] Actualizado mi CV.
-  - [x] Actualizado mi perfil de GitHub.
-  - [x] Comenzado un proyecto con Java y Angular.
+  - [X] Actualizado mi perfil de LinkedIn.
+  - [X] Actualizado mi CV.
+  - [X] Actualizado mi perfil de GitHub.
+  - [X] Comenzado un proyecto con Java y Angular.
+  - [X] Comenzado mi primer experiencia laboral profesional.
   - [ ] Participado activamente en LinkedIn.
 
 ### 🔹 Las tecnologías y lenguajes que manejo al momento:
