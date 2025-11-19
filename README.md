@@ -1,5 +1,5 @@
 <h1 align="center"> Buenas, soy Salvador, ¡bienvenido a mi perfil! 👋 </h1>
-<h3 align="center"> Desarrollador de software en UKG </h3>
+<h3 align="center"> Desarrollador de software </h3>
 
 ### En el último año de carrera 👨‍🎓
 
@@ -35,7 +35,7 @@
   - [X] Actualizado mi perfil de GitHub.
   - [X] Comenzado un proyecto con Java y Angular.
   - [X] Comenzado mi primer experiencia laboral profesional.
-  - [ ] Participado activamente en LinkedIn.
+  - [X] Participado activamente en LinkedIn.
 
 ### 🔹 Las tecnologías y lenguajes que manejo al momento:
   <p>
