@@ -1,9 +1,9 @@
 <h1 align="center"> Buenas, soy Salvador, ¡bienvenido a mi perfil! 👋 </h1>
 <h3 align="center"> Desarrollador de software </h3>
 
-### En el último año de carrera 👨‍🎓
+### Tecnólogo en Informática 👨‍🎓
 
-### Asentando mi lugar en la industria 💻
+### Aportando a la industria 💻
 
 ### Con conocimientos avanzados de inglés 💬
 
